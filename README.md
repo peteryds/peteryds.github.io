@@ -1,5 +1,3 @@
-# Yu-Hsin (Peter) Yeh
-
 ## About Me
 I am a Data Science professional and an MS candidate in Applied Data Science at New College of Florida. Currently, I am focusing on modeling molecular responses to exercise using the [MoTrPAC database](https://motrpac-data.org/). My research involves the application of machine learning to biological datasets within a Bioinformatics framework. 
 
