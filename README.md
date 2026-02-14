@@ -1,4 +1,3 @@
-# peteryds.github.io
 # Yu-Hsin (Peter) Yeh
 
 ## About Me
