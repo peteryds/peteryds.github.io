@@ -5,14 +5,15 @@ My technical background was established at National Taiwan University, where my 
 
 ## Featured Projects
 
-### 1. Bioinformatics & Gene Expression Modeling
-* **Description:** Statistical exploration and data modeling of biological datasets. This project focuses on applying machine learning and statistical methods to analyze gene expression and uncover patterns in molecular data. 
-* **Repository:** [GSE47881-Statistical-Exploration-and-Modeling](https://github.com/peteryds/GSE47881-Statistical-Exploration-and-Modeling)
-* **Tech Stack:** Machine Learning, Statistical Modeling, Bioinformatics
+### 1. Bioinformatics: Exploring Omic Responses to Exercise
+* **Description:** A two-stage analytical framework integrating human (GSE47881) and animal (MoTrPAC) datasets to identify systemic molecular determinants of exercise responsiveness. This project applies Empirical Bayes for differential gene expression analysis and utilizes LASSO Logistic Regression on high-dimensional multi-omics profiles to predict VO2 max adaptability.
+* **Repository:** [Exercise-Omics-Exploration](https://github.com/peteryds/Exercise-Omics-Exploration)
+* **Tech Stack:** R (Bioconductor, limma), LASSO Logistic Regression, Multi-Omics Integration, Statistical Modeling
 
-### 2. Crypto Fund Middle Office & Quant Infrastructure
-* **Description:** I'll share useful tools in my Github. Those are for strategy development workflow, backtesting methodologies, and the construction of scalable data pipelines. 
-* **Tech Stack:** Quantitative Finance, Data Engineering, Trading Strategy Backtesting
+### 2. Golf Telemetry ETL & Diagnostic Analytics
+* **Description:** An end-to-end data pipeline processing raw telemetry from a Garmin R10 launch monitor into actionable coaching insights. I engineered an automated AWS ingestion workflow and developed a custom Diagnostic Tagging System. This algorithm utilizes dynamic baselines across metrics like Smash Factor and Launch Angle to automatically classify shot quality and identify specific mechanical flaws.
+* **Repository:** [golf-telemetry-etl-viz](https://github.com/peteryds/golf-telemetry-etl-viz)
+* **Tech Stack:** Python, R, AWS (S3 / RDS), Data Engineering (ETL), Data Visualization
 
 ## Selected Experience & Talks
 
@@ -23,5 +24,6 @@ My technical background was established at National Taiwan University, where my 
   * Presented technical roadmaps on the evolution of Object Detection (R-CNN to Mask R-CNN) and implemented CNNs for Neural Style Transfer synthesizing geographic imagery.
 
 ## Contact
-* **Email:** yu-hsin.yeh27@ncf.edu
+* **Email:** yu-hsin.yeh27@ncf.edu | peter@twcoder.com
 * **GitHub:** [peteryds](https://github.com/peteryds)
+* **LinkedIn:** [Peter Yeh](https://www.linkedin.com/in/peter-yeh-a84921ab/)
