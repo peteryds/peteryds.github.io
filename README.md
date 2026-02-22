@@ -5,15 +5,15 @@ My technical background was established at National Taiwan University, where my 
 
 ## Featured Projects
 
-### 1. Bioinformatics: Exploring Omic Responses to Exercise
-* **Description:** A two-stage analytical framework integrating human (GSE47881) and animal (MoTrPAC) datasets to identify systemic molecular determinants of exercise responsiveness. This project applies Empirical Bayes for differential gene expression analysis and utilizes LASSO Logistic Regression on high-dimensional multi-omics profiles to predict VO2 max adaptability.
+### 1. Bioinformatics: Exploring Omic Responses to Exercise (Work in Progress)
+* **Description:** An ongoing two-stage study to identify systemic molecular determinants of exercise responsiveness. Currently, I have completed Phase 1, establishing a baseline molecular signature from the human GSE47881 dataset using Empirical Bayes for differential gene expression analysis. The planned next phase involves integrating multi-omics animal data (MoTrPAC) and applying LASSO Logistic Regression to predict VO2 max adaptability.
 * **Repository:** [Exercise-Omics-Exploration](https://github.com/peteryds/Exercise-Omics-Exploration)
-* **Tech Stack:** R (Bioconductor, limma), LASSO Logistic Regression, Multi-Omics Integration, Statistical Modeling
+* **Tech Stack:** R (Bioconductor, limma), Statistical Modeling. *(Planned: LASSO Logistic Regression, Multi-Omics Integration)*
 
-### 2. Golf Telemetry ETL & Diagnostic Analytics
-* **Description:** An end-to-end data pipeline processing raw telemetry from a Garmin R10 launch monitor into actionable coaching insights. I engineered an automated AWS ingestion workflow and developed a custom Diagnostic Tagging System. This algorithm utilizes dynamic baselines across metrics like Smash Factor and Launch Angle to automatically classify shot quality and identify specific mechanical flaws.
+### 2. Golf Telemetry ETL & Diagnostic Analytics (Work in Progress)
+* **Description:** An ongoing project to build an end-to-end data pipeline processing raw telemetry from a Garmin R10 launch monitor. Currently, I have developed the core **Diagnostic Tagging System**—a custom algorithm that utilizes dynamic baselines (e.g., Smash Factor, Launch Angle) to automatically classify shot quality and identify mechanical flaws. The next phases involve automating AWS data ingestion (ETL) and building interactive visualizations for actionable coaching insights.
 * **Repository:** [golf-telemetry-etl-viz](https://github.com/peteryds/golf-telemetry-etl-viz)
-* **Tech Stack:** Python, R, AWS (S3 / RDS), Data Engineering (ETL), Data Visualization
+* **Tech Stack:** Data Analysis (Python/R), Domain-Specific Algorithm Design. *(Planned: AWS S3/RDS, Data Visualization)*
 
 ## Selected Experience & Talks
 
