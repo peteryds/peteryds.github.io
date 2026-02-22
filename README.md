@@ -24,6 +24,6 @@ My technical background was established at National Taiwan University, where my 
   * Presented technical roadmaps on the evolution of Object Detection (R-CNN to Mask R-CNN) and implemented CNNs for Neural Style Transfer synthesizing geographic imagery.
 
 ## Contact
-* **Email:** yu-hsin.yeh27@ncf.edu | peter@twcoder.com
+* **Email:** yu-hsin.yeh27@ncf.edu
 * **GitHub:** [peteryds](https://github.com/peteryds)
 * **LinkedIn:** [Peter Yeh](https://www.linkedin.com/in/peter-yeh-a84921ab/)
