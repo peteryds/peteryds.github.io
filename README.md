@@ -11,7 +11,7 @@ My technical background was established at National Taiwan University, where my 
 * **Tech Stack:** R (Bioconductor, limma), Statistical Modeling. *(Planned: LASSO Logistic Regression, Multi-Omics Integration)*
 
 ### 2. Golf Telemetry ETL & Diagnostic Analytics (Work in Progress)
-* **Description:** An ongoing project to build an end-to-end data pipeline processing raw telemetry from a Garmin R10 launch monitor. Currently, I have developed the core **Diagnostic Tagging System**—a custom algorithm that utilizes dynamic baselines (e.g., Smash Factor, Launch Angle) to automatically classify shot quality and identify mechanical flaws. The next phases involve automating AWS data ingestion (ETL) and building interactive visualizations for actionable coaching insights.
+* **Description:** An ongoing project to build an end-to-end data pipeline processing raw telemetry from a Garmin R10 launch monitor. Currently, I have developed the core Diagnostic Tagging System—a custom algorithm that utilizes dynamic baselines (e.g., Smash Factor, Launch Angle) to automatically classify shot quality and identify mechanical flaws. The next phases involve automating AWS data ingestion (ETL) and building interactive visualizations for actionable coaching insights.
 * **Repository:** [golf-telemetry-etl-viz](https://github.com/peteryds/golf-telemetry-etl-viz)
 * **Tech Stack:** Data Analysis (Python/R), Domain-Specific Algorithm Design. *(Planned: AWS S3/RDS, Data Visualization)*
 
