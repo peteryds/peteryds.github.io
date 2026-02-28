@@ -1,7 +1,7 @@
 ## About Me
-I am a data researcher and engineer, currently pursuing an MS in Applied Data Science at New College of Florida. I am focusing on modeling molecular responses to exercise using the [MoTrPAC database](https://motrpac-data.org/). My research involves the application of machine learning to biological datasets within a Bioinformatics framework. 
+I am a data researcher and engineer currently pursuing an MS in Applied Data Science at New College of Florida. My current research focuses on modeling molecular responses to exercise using the [MoTrPAC database](https://motrpac-data.org/), applying machine learning to biological datasets within a bioinformatics framework.
 
-My technical background was established at National Taiwan University, where my work in Deep Learning and Computer Vision was presented at major conferences, including PyCon Taiwan. Professionally, I have experience in the FinTech sector as a Data Engineer and a Product Manager where I specialized in developing middle-office platforms and research infrastructure for quantitative traders.
+My technical foundation was established at National Taiwan University, where my work in deep learning and computer vision was presented at major conferences, including PyCon Taiwan. Professionally, I bring extensive experience from the FinTech sector as a Data Engineer and Product Manager, having specialized in developing middle-office platforms and research infrastructure for quantitative traders.
 
 ## Featured Projects
 
