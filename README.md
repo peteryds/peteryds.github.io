@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-I am a graduate student pursuing an MS in Applied Data Science at New College of Florida, with an undergraduate background in Geography from National Taiwan University. My recent focus is on spatial data and UAV remote sensing for coastal wetland monitoring.
+I am a graduate student pursuing an MS in Applied Data Science at New College of Florida, with an undergraduate background in Geography from National Taiwan University. My recent focus is on spatial data and UAV remote sensing for mangrove ecosystem monitoring.
 
 Before graduate school, I spent six years in software development in Taipei, building data infrastructure and analytics tooling for quantitative trading teams. I currently also serve as a Teaching Assistant at New College.
 
@@ -16,7 +16,7 @@ Before graduate school, I spent six years in software development in Taipei, bui
 ## 🔬 Featured Projects
 
 ### 🌿 UAV Photogrammetry & Mangrove Monitoring Pipeline
-*Automated UAV Processing & Field Ground-Truthing Toolkit*
+*UAV Processing & Field Ground-Truthing Toolkit. [Github](https://github.com/Suncoast-Waterkeeper)*
 
 * Designed an end-to-end data processing workflow for multi-temporal multispectral drone surveys in coastal mangrove environments.
 * Engineered an automated Python data quality check pipeline to ingest tens of thousands of aerial images prior to photogrammetric reconstruction.
@@ -24,7 +24,7 @@ Before graduate school, I spent six years in software development in Taipei, bui
 * **Tech Stack:** Python, R, QGIS, Pix4Dmapper, Emlid Reach RTK-GNSS, rclone
 
 ### 🧬 Molecular Signatures of Exercise Adaptations
-*Multi-Omic Differential Analysis & Poster Presentation at SMHCS (2026)*
+*Multi-Omic Differential Analysis & Poster Presentation at [SMHCS (2026)](https://github.com/peteryds/Exercise-Omics-Exploration)*
 
 * Investigated tissue-specific molecular responses to physical exercise using the public MoTrPAC dataset and microarray expression profiles.
 * Applied empirical Bayes linear modeling (`limma`) in R to identify sexually dimorphic metabolomic and transcriptomic signatures.
